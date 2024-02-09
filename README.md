@@ -54,7 +54,7 @@ You will create a program that runs everyday to re-assign everybody to a new sea
 
 ## Project structure
 
-[challenge-openspace-classifier](./tree-md)
+[challenge-openspace-classifier](.)
   * [data/](data)
     * [new_colleagues.csv](data/new_colleagues.csv)
   * [img/](img)
