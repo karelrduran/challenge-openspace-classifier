@@ -3,7 +3,7 @@ import random
 
 
 def read_file(filename: str) -> list:
-        """
+    """
     Read a CSV file and return a list of names.
 
     Args:
