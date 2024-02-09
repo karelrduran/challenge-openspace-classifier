@@ -53,17 +53,19 @@ You will create a program that runs everyday to re-assign everybody to a new sea
 
 
 ## Project structure
-challenge-openspace-classifier
-|---  [data/](data)
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---  [new_colleagues.csv](data/new_colleagues.csv)
-|--- [img/](img)
-|--- [output/](output)
-|---[utils/](utils)
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[file_utils.py](utils/file_utils.py)
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[openspace.py](utils/openspace.py)
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---[table.py](utils/table.py)
-|---[main.py](main.py)
-|---[README.md](README.md)
+
+[challenge-openspace-classifier](./tree-md)
+  * [data/](data)
+    * [new_colleagues.csv](data/new_colleagues.csv)
+  * [img/](img)
+  * [output/](output)
+  * [utils/](utils)
+    * [file_utils.py](utils/file_utils.py)
+    * [openspace.py](utils/openspace.py)
+    * [table.py](utils/table.py)
+  * [main.py](main.py)
+  * [README.md](README.md)
+
 
 ## Class Description
 [Openspace class](utils/openspace.py)
