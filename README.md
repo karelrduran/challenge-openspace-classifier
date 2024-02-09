@@ -44,9 +44,9 @@ You will create a program that runs everyday to re-assign everybody to a new sea
 
 ## Timeline
 - **February 8, 2024:** 
-  >>> Project kickoff
-  >>> Solution development
-  >>> Code documentation
+  >>> Project kickoff<br>
+  >>> Solution development<br>
+  >>> Code documentation<br>
               
 - **February 9, 2024:** 
   >>> Creation of [README.md](README.md) file
