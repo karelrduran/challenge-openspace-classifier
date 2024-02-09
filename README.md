@@ -1,6 +1,8 @@
 <h1 align="center"> Open space organizer </h1>
 
-![Openspace](img/openspace.png)
+<p align="center">
+    <img src="img/openspace.png" alt="openspace.png">
+</p>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
