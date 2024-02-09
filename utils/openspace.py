@@ -3,6 +3,26 @@ from utils.file_utils import read_file, random_assign
 
 
 class Openspace:
+    """
+    Represents an openspace workplace with multiple tables.
+
+    This class models an openspace with a predefined number of tables, where people are randomly assigned
+    to seats at each table.
+
+    Attributes:
+        number_of_tables (int): The total number of tables in the openspace.
+        _tables (list): A list containing Table objects representing the tables in the openspace.
+
+    Methods:
+        __init__: Initializes an Openspace object.
+        organize: Randomly assigns people to seats in the different tables.
+        display: Displays the different tables and their occupants.
+        store: Stores the seat assignments in an Excel file.
+        __str__: Returns a string representation of the openspace.
+
+    Notes:
+        This class relies on the Table class to represent individual tables, and the Seat class to represent seats.
+    """
     def __init__(self):
         self.number_of_tables: int = 6
         self._tables: list = []
