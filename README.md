@@ -31,7 +31,7 @@ You will create a program that runs everyday to re-assign everybody to a new sea
             run(['--input', 'path/to/input/file.csv', '--output', 'path/to/output/file.csv'])
 
         Tu run the program in the terminal:
-            python script.py [--input 'path/to/input/file.csv'] [--output 'path/to/output/file.csv']
+            python main.py [--input 'path/to/input/file.csv'] [--output 'path/to/output/file.csv']
 
 ## Arguments
 ***
