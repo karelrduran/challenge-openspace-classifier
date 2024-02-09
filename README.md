@@ -133,4 +133,4 @@ You will create a program that runs everyday to re-assign everybody to a new sea
 ## Personal situation
 While doing this project I was part of the ARAI6 group of the <a href="https://becode.org/all-trainings/pedagogical-framework-ai-data-science/">AI Bootcamp</a> training organized by <a href="https://becode.org/">BeCode</a> in Ghent. The main objective of this project is to provide participants with an opportunity to understand the concepts of object-oriented programming (OOP) in Python.
 ______________________________________
-  <img src="https://avatars.githubusercontent.com/u/106887418?s=400&u=82192b481d8f03c3eaad34ca2bd67889fce6a0c2&v=4" width=115><br><sub>Karel Rodríguez Durán</sub>
+  <img src="https://avatars.githubusercontent.com/u/106887418?s=400&u=82192b481d8f03c3eaad34ca2bd67889fce6a0c2&v=4" width=115><br><sub><a href="https://github.com/karelrduran?tab=repositories">Karel Rodríguez Durán</a></sub>
